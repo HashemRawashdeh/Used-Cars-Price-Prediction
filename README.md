@@ -11,7 +11,6 @@ Inputs: Make, Model, Type, Origin, DriveTrain, Invoice, EngineSize, Cylinders, H
 Output: MSRP(Price).
 
 # Examining The Features:
-
 ![alt text](features.png "The Features")
 
 # How Are The Features Correlated:
